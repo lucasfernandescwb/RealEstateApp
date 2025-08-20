@@ -19,3 +19,5 @@ Kotlin – linguagem moderna e segura.
 Jetpack Compose – UI declarativa e responsiva.
 
 MVVM – arquitetura limpa para separar lógica e interface.
+
+![App Screenshot](app/src/main/res/drawable/gitreadme.png)
