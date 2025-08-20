@@ -1,21 +1,23 @@
-Este é um aplicativo Android desenvolvido em Kotlin usando Jetpack Compose, que permite aos usuários buscar e alugar imóveis de forma simples, inspirado em plataformas como Airbnb.
+App de Aluguel em Kotlin
 
-Funcionalidades principais
+Um aplicativo Android elegante e funcional, feito em Kotlin e Jetpack Compose, que permite explorar e alugar imóveis de forma simples, inspirado em plataformas como Airbnb.
 
-Listagem de imóveis com imagens, preços e descrições.
+✨ Principais recursos:
 
-Detalhes de cada imóvel ao clicar.
+🔹 Lista de imóveis com fotos, preços e descrições.
 
-Interface intuitiva e moderna, totalmente construída com Jetpack Compose.
+🔹 Detalhes completos de cada imóvel.
 
-Projeto simples e educativo, ideal para estudo ou prototipagem rápida.
+🔹 Interface moderna, totalmente declarativa com Jetpack Compose.
 
-Tecnologias
+🔹 Projeto leve e educativo, perfeito para estudo ou prototipagem rápida.
 
-Kotlin – linguagem principal.
+🛠 Tecnologias utilizadas:
 
-Jetpack Compose – UI declarativa moderna do Android.
+Kotlin – linguagem moderna e segura.
 
-MVVM – arquitetura sugerida para separar lógica e UI.
+Jetpack Compose – UI declarativa e responsiva.
 
-![App Screenshot](app/src/main/res/drawable/gitreadme.png)
+MVVM – arquitetura limpa para separar lógica e interface.
+
+💡 Ideal para quem quer aprender desenvolvimento Android moderno ou criar rapidamente um protótipo de app de aluguel.
